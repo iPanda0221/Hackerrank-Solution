@@ -79,8 +79,6 @@ function topView(root: TreeNode): void {
 }
 
 function main() {
-  // Enter your code here
-
   let root: TreeNode | null = null;
 
   let t: number = Number(inputLines[0]);
